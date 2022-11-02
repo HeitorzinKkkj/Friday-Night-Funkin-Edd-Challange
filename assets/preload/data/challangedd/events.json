@@ -1,0 +1,209 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "eddhouse",
+		"player1": "bf",
+		"player2": "edd",
+		"player3": null,
+		"events": [
+			[
+				73548.3870967742,
+				[
+					[
+						"Change Character",
+						"1",
+						"eddside"
+					]
+				]
+			],
+			[
+				73588.7096774194,
+				[
+					[
+						"Play Animation",
+						"what",
+						"dad"
+					]
+				]
+			],
+			[
+				74193.5483870968,
+				[
+					[
+						"Camera Follow Pos",
+						"-800",
+						"310"
+					]
+				]
+			],
+			[
+				81290.3225806452,
+				[
+					[
+						"Camera Follow Pos",
+						"100",
+						"350"
+					]
+				]
+			],
+			[
+				86451.6129032259,
+				[
+					[
+						"Camera Follow Pos",
+						"-800",
+						"310"
+					]
+				]
+			],
+			[
+				91612.9032258065,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96774.1935483872,
+				[
+					[
+						"Camera Follow Pos",
+						"-800",
+						"310"
+					]
+				]
+			],
+			[
+				99354.8387096775,
+				[
+					[
+						"Camera Follow Pos",
+						"100",
+						"350"
+					]
+				]
+			],
+			[
+				101935.483870968,
+				[
+					[
+						"Camera Follow Pos",
+						"-800",
+						"310"
+					]
+				]
+			],
+			[
+				104516.129032258,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				107096.774193549,
+				[
+					[
+						"Camera Follow Pos",
+						"-800",
+						"310"
+					]
+				]
+			],
+			[
+				109677.419354839,
+				[
+					[
+						"Camera Follow Pos",
+						"100",
+						"350"
+					]
+				]
+			],
+			[
+				112258.064516129,
+				[
+					[
+						"Camera Follow Pos",
+						"-800",
+						"310"
+					]
+				]
+			],
+			[
+				114838.70967742,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117419.35483871,
+				[
+					[
+						"Camera Follow Pos",
+						"-800",
+						"310"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Camera Follow Pos",
+						"100",
+						"350"
+					]
+				]
+			],
+			[
+				122580.645161291,
+				[
+					[
+						"Camera Follow Pos",
+						"-800",
+						"310"
+					]
+				]
+			],
+			[
+				125161.290322581,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				128387.096774194,
+				[
+					[
+						"Camera Follow Pos",
+						"-800",
+						"310"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 186,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "ChallengEdd"
+	}
+}
